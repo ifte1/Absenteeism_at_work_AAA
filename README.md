@@ -14,18 +14,21 @@ Methods:
   Euclidean distance formula is used to measure distance.
 
 Clustered Instances
+   
 
-Clustered    Instances
+| Clustered     | Instances           
+| ------------- |:-------------
+     0            710 ( 96%)
+     1            7 (  1%)
+     2            6 (  1%)
+     3            2 (  0%)
+     4            7 (  1%)
+     5            4 (  1%)
+     6            2 (  0%)
+     7            1 (  0%)
+     8            1 (  0%)
 
-0      710 ( 96%)
-1        7 (  1%)
-2        6 (  1%)
-3        2 (  0%)
-4        7 (  1%)
-5        4 (  1%)
-6        2 (  0%)
-7        1 (  0%)
-8        1 (  0%)
+
 
 # Discover knowledge From absenteeism At Work Data Set:
                                                                                                         Using hierarchical cluster the total data set(instances) are devided into 9 clusters through the cutting point of the 
