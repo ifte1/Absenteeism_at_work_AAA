@@ -15,6 +15,7 @@ Methods:
 
 Clustered Instances
    
+   ![](cluster.png)
 
 | Clustered     | Instances           
 | ------------- |:-------------
